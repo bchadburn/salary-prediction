@@ -1,6 +1,6 @@
 .idea/
 .venv/
 mlruns/.trash
-data/
+data/*
+!data/model*
 .pytest_cache/
-
