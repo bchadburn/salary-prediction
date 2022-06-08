@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Windows/PycharmProjects/salary-prediction/mlruns/0/7bd571aa0c6e4931b995933d20326b55/artifacts
+end_time: 1654412208765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7bd571aa0c6e4931b995933d20326b55
+run_uuid: 7bd571aa0c6e4931b995933d20326b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654412100008
+status: 3
+tags: []
+user_id: Windows

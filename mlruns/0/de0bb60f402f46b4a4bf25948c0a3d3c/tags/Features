@@ -1,0 +1,10 @@
+Index(['companyId', 'jobType', 'yearsExperience', 'milesFromMetropolis',
+       'jobType_CEO', 'jobType_CFO', 'jobType_CTO', 'jobType_JANITOR',
+       'jobType_JUNIOR', 'jobType_MANAGER', 'jobType_SENIOR',
+       'jobType_VICE_PRESIDENT', 'degree_encoded', 'major_BIOLOGY',
+       'major_BUSINESS', 'major_CHEMISTRY', 'major_COMPSCI',
+       'major_ENGINEERING', 'major_LITERATURE', 'major_MATH', 'major_NONE',
+       'major_PHYSICS', 'industry_AUTO', 'industry_EDUCATION',
+       'industry_FINANCE', 'industry_HEALTH', 'industry_OIL',
+       'industry_SERVICE', 'industry_WEB'],
+      dtype='object')
