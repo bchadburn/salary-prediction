@@ -4,3 +4,4 @@ mlruns/.trash
 data/*
 !data/model*
 .pytest_cache/
+salary_estimates/__pycache__
